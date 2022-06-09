@@ -8,16 +8,19 @@ body {
 header {
     background-color: rgb(44,63,79);
     min-height: 100px;
+    padding: 30px;
 }
 
 .jumbo { 
     background-color: rgb(25,188,155);
     min-height: 100px;
+    padding: 30px;
 }
 
 main {
     background-color: rgb(188, 60, 25);
-    min-height: 300px;
+    padding: 30px;
+    min-height: 100px;
 }
 
 .row {
@@ -29,5 +32,15 @@ main {
     border: 1px dashed red;
     }
 
+.sub-main {
+    background-color: rgb(25,188,155);
+    min-height: 100px;
+    padding: 30px;
+}
 
+.contact-me {
+    background-color: white;
+    min-height: 100px;
+    padding: 30px;
+}
 
