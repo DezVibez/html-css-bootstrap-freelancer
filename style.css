@@ -18,7 +18,7 @@ header {
 }
 
 main {
-    background-color: rgb(188, 60, 25);
+    background-color: white;
     padding: 30px;
     min-height: 100px;
 }
@@ -44,3 +44,14 @@ main {
     padding: 30px;
 }
 
+.about {
+    background-color: rgb(59,84,109);
+    min-height: 100px;
+    padding: 30px;
+}
+
+footer {
+    background-color: rgb(44,63,79);
+    min-height: 100px;
+    padding: 30px;
+}
