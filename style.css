@@ -20,6 +20,18 @@ header {
     padding: 30px;
 }
 
+header li {
+    margin-left:10px;
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+    
+}
+
+header i {
+    font-size: 30px;
+}
+
 .jumbo { 
     background-color: rgb(25,188,155);
     min-height: 100px;
@@ -80,9 +92,16 @@ main {
     min-height: 100px;
     padding: 30px;
 }
-
+.about p{
+    font-size: 14px;
+}
 footer {
     background-color: rgb(44,63,79);
     min-height: 100px;
     padding: 30px;
 }
+
+footer p{
+    font-size: 12px;
+}
+
