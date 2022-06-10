@@ -33,7 +33,7 @@ h1 {
 
 .linea {
     height: 2px;
-    background-color: black;
+    background-color: white;
     width: 40px;
     margin: 0 5px;
 }
@@ -48,12 +48,9 @@ main {
     min-height: 100px;
 }
 
-.row {
-    background-color: chartreuse;
-    }
+
 
 [class^="col"] {
-    background-color: gold;
     border: 1px dashed red;
     }
 
@@ -67,6 +64,15 @@ main {
     background-color: white;
     min-height: 100px;
     padding: 30px;
+}
+
+.btn-contact-me {
+    background-color: rgb(25,188,155);
+    border-radius: 7px;
+    border: none;
+    padding: 5px;
+    color: white;
+    margin-top:60px
 }
 
 .about {
