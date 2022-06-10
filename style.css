@@ -62,9 +62,7 @@ main {
 
 
 
-[class^="col"] {
-    border: 1px dashed red;
-    }
+
 
 .sub-main {
     background-color: rgb(25,188,155);
