@@ -97,6 +97,12 @@ main {
     min-height: 100px;
     padding: 30px;
 }
+
+.about h6 {
+    margin: 20px 0;
+}
+
+
 .about p{
     font-size: 14px;
 }
